@@ -26,5 +26,4 @@ public class Application {
 		return "application";
 	}
 
-
 }
